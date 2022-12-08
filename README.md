@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/IdolizedFaintGonolek-size_restricted.gif)
+![MasterHead](https://video.twimg.com/tweet_video/FjdMKD1VIAImush.mp4)
 <h3 align="center">.: :.. //chlxyz// ...</h3>
 <img align="right" width="400" src="https://i.gifer.com/2qsB.gif">
 

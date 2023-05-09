@@ -10,7 +10,7 @@
 
 - ✲ seeing the unseen
 
-- ⊚ All of my projects are available at [https://mirror.xyz/0x5A3773679d4C90D3242b2abDE13A5D97686CA0b1/hTr2rmJqPJn98EtYkp5wJt11vbkc2hVc9toV7I3HZAk](https://mirror.xyz/0x5A3773679d4C90D3242b2abDE13A5D97686CA0b1/hTr2rmJqPJn98EtYkp5wJt11vbkc2hVc9toV7I3HZAk)
+- ⊚ All of my projects are available at "TBD"
 
 - ▧ twit [https://twitter.com/chrnclee](https://twitter.com/keukeulloi)
 

@@ -6,17 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/keukeulloi" target="blank"><img src="https://img.shields.io/twitter/follow/keukeulloi?logo=twitter&style=for-the-badge" alt="keukeulloi" /></a> </p>
 
-- 🟀 I’m currently working on **GenesisTRX**
+- 🟀 working on **ind+st+nct**
 
-- ✲ I’m currently learning **JavaScript**
+- ✲ seeing the unseen
 
 - ⊚ All of my projects are available at [https://mirror.xyz/0x5A3773679d4C90D3242b2abDE13A5D97686CA0b1/hTr2rmJqPJn98EtYkp5wJt11vbkc2hVc9toV7I3HZAk](https://mirror.xyz/0x5A3773679d4C90D3242b2abDE13A5D97686CA0b1/hTr2rmJqPJn98EtYkp5wJt11vbkc2hVc9toV7I3HZAk)
 
-- ⨗ How to reach me **yeppeokeulloi12@gmail.com**
+- ▧ twit [https://twitter.com/chrnclee](https://twitter.com/keukeulloi)
 
-- ▧ Know about my experiences [https://twitter.com/keukeulloi](https://twitter.com/keukeulloi)
-
-- 🛆 Fun fact **i'm incited to love anime n kpop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

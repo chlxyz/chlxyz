@@ -10,7 +10,7 @@
 
 - ✲ seeing the unseen
 
-- ⊚ All of my projects are available at [chrncle](https://chrncle.vercel.app){:rel="noopener noreferrer"}
+- ⊚ All of my projects are available at [chrncle](https://chrncle.vercel.app)
 
 - ▧ twit [https://twitter.com/chrnclee](https://twitter.com/chrnclee)
 

@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/chrnclee" target="blank"><img src="https://img.shields.io/twitter/follow/chrnclee?logo=twitter&style=for-the-badge" alt="@chrnclee" /></a> </p>
 
-- 🟀 working on **ind+st+nct**
+- 🟀 working on **LLM**
 
 - ✲ seeing the unseen
 
-- ⊚ All of my projects are available at https://chrncle.vercel.app
+- ⊚ All of my projects are available at <p rel="noopener noreferrer">https://chrncle.vercel.app</p>
 
 - ▧ twit [https://twitter.com/chrnclee](https://twitter.com/chrnclee)
 

@@ -10,9 +10,9 @@
 
 - ✲ seeing the unseen
 
-- ⊚ All of my projects are available at "TBD"
+- ⊚ All of my projects are available at https://chrncle.vercel.app
 
-- ▧ twit [https://twitter.com/chrnclee](https://twitter.com/keukeulloi)
+- ▧ twit [https://twitter.com/chrnclee](https://twitter.com/chrnclee)
 
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,5 @@
-![MasterHead](https://giffiles.alphacoders.com/112/112378.gif)
+![MasterHead]
+<h1 align="center">(https://giffiles.alphacoders.com/112/112378.gif)</h1>
 <h3 align="center"></h3>
 <img align="right" width="400" src="https://i.gifer.com/2qsB.gif">
 

@@ -1,4 +1,4 @@
-![MasterHead](https://giffiles.alphacoders.com/112/112379.gif)
+![MasterHead](https://monophy.com/media/472KaGZjuxUCQ/monophy.gif)
 <h3 align="center">.: :.. :: . .......... .":::: .> :; ....: ;;;; ..>>>>>>> .... ...</h3>
 <img align="right" width="400" src="https://i.gifer.com/2qsB.gif">
 

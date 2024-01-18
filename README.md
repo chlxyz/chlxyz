@@ -1,4 +1,4 @@
-![MasterHead](https://monophy.com/media/472KaGZjuxUCQ/monophy.gif)
+![MasterHead](https://i.gifer.com/1KyG.mp4)
 <h3 align="center">.: :.. :: . .......... .":::: .> :; ....: ;;;; ..>>>>>>> .... ...</h3>
 <img align="right" width="400" src="https://i.gifer.com/2qsB.gif">
 

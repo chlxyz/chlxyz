@@ -1,5 +1,5 @@
-![MasterHead](https://i.gifer.com/1KyG.mp4)
-<h3 align="center">.: :.. :: . .......... .":::: .> :; ....: ;;;; ..>>>>>>> .... ...</h3>
+![MasterHead](https://i.pinimg.com/originals/59/7d/91/597d915f228067bc382caecd831b99bd.gif)
+<h3 align="center"></h3>
 <img align="right" width="400" src="https://i.gifer.com/2qsB.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chlxyz&label=Profile%20views&color=0e75b6&style=flat" alt="chlxyz" /> </p>

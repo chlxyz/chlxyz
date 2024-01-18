@@ -1,4 +1,4 @@
-![MasterHead]
+
 <p align="center">
   <img src="https://giffiles.alphacoders.com/112/112378.gif" alt="MasterHead">
 </p>

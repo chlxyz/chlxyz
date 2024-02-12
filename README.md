@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/chrnclee" target="blank"><img src="https://img.shields.io/twitter/follow/chrnclee?logo=twitter&style=for-the-badge" alt="@chrnclee" /></a> </p>
 
-- 🟀 working on **LLM**
+- 🟀 working on <span link="https://github.com/chlxyz/experimentals">experimentals</span>
 
 - ✲ seeing the unseen
 

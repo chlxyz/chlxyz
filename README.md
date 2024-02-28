@@ -20,8 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlxyz&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chlxyz&show_icons=true&theme=onedark)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chrnclee" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="twitter" height="30" width="30" /></a>

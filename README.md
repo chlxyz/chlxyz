@@ -18,8 +18,7 @@
 
 - ▧ twit [https://twitter.com/chrnclee](https://twitter.com/chrnclee)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlxyz&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngnc3&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chlxyz&label=Profile%20views&color=0e75b6&style=flat" alt="chlxyz" /> </p>
 
-- 🟀 working on [experimentals](https://github.com/chlxyz/experimentals)
+- 🟀 working on [sto2](https://github.com/chlxyz/sto2)
 
 - ✲ seeing the unseen
 

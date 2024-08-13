@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chlxyz&label=Profile%20views&color=0e75b6&style=flat" alt="chlxyz" /> </p>
 
-- 🟀 working on [sto2](https://github.com/chlxyz/minicap4)
+- 🟀 working on [MYSkill](https://github.com/chlxyz/minicap4)
 
 - ✲ seeing the unseen
 

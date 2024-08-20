@@ -15,4 +15,4 @@
 
 - ▧ twit [https://twitter.com/chrnclee](https://twitter.com/chrnclee)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlxyz&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlxyz&layout=compact)

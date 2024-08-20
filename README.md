@@ -14,8 +14,8 @@
 - ⊚ All of my 3D arts are available at [chrncle](https://chrncle.vercel.app)
 
 - ▧ twit [https://twitter.com/chrnclee](https://twitter.com/chrnclee)
-
+- 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlxyz&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlxyz&layout=compact" alt="Top Langs" />
 </div>
 

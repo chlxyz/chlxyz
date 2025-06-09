@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chlxyz&label=Profile%20views&color=0e75b6&style=flat" alt="chlxyz" /> </p>
 
-- 🟀 working on [MYSkill](https://github.com/chlxyz/Factor)
+- 🟀 working on [Factor](https://github.com/chlxyz/Factor)
 
 - ⊚ All of my 3D arts are available at [chrncle](https://chrncle.vercel.app)
 

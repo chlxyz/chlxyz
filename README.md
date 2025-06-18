@@ -1,4 +1,4 @@
-user@chlxyz:~$ login
+user@chlxyz:~$ start intro
 >
 <p align="left">
   <img src="https://media1.tenor.com/m/e9Jhki8EVdMAAAAC/moon-phase.gif" alt="MasterHead">

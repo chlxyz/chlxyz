@@ -1,7 +1,7 @@
 user@chlxyz:~$ start intro
 >
 <p align="left">
-  <img src="https://media1.tenor.com/m/e9Jhki8EVdMAAAAC/moon-phase.gif" alt="MasterHead">
+  <img src="https://i.imgur.com/eKHbfIH.gif" alt="MasterHead">
 </p>
 
 user@chlxyz:~$ whoami

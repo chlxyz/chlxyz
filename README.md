@@ -11,10 +11,10 @@ user@chlxyz:~$ uptime
 > Currently working on [Factor](https://github.com/chlxyz/Factor) 🟀
 
 user@chlxyz:~$ curl chrncle.vercel.app
-> ✅ All 3D works available at [chrncle](https://chrncle.vercel.app) 🟀
+> ✅ All 3D works available at [chrncle](https:/chrncle.vercel.app) 🟀
 
 user@chlxyz:~$ cat links.txt
-> 🌐 [Portfolio](https://chrncle.mhw1.app)
+> 🌐 [Portfolio](https://mhw1.vercel.app)
 > <a><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740" width="20" height="20"></a> [X](https://twitter.com/chrnclee)
 
 user@chlxyz:~$ ghpvc

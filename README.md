@@ -11,7 +11,7 @@ user@chlxyz:~$ uptime
 > Currently working on [Factor](https://github.com/chlxyz/Factor) 🟀
 
 user@chlxyz:~$ curl chrncle.vercel.app
-> ✅ All 3D works available at [chrncle](https:/chrncle.vercel.app) 🟀
+> ✅ All 3D works available at [chrncle](https://chrncle.vercel.app) 🟀
 
 user@chlxyz:~$ cat links.txt
 > 🌐 [Portfolio](https://mhw1.vercel.app)

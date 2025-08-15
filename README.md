@@ -5,7 +5,7 @@ user@chlxyz:~$ start intro
 </p>
 
 user@chlxyz:~$ whoami
-> Musician, Digital Artist, and Developer
+> Musician, Digital Artist, SWE and SWD
 
 user@chlxyz:~$ uptime
 > Currently working on [Factor](https://github.com/chlxyz/Factor) 🟀

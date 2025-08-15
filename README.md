@@ -7,6 +7,9 @@ user@chlxyz:~$ start intro
 user@chlxyz:~$ whoami
 > Musician, Digital Artist, SWE and SWD
 
+user@chlxyz:~$ prevcar
+> SWE Intern at Kompas Gramedia
+
 user@chlxyz:~$ uptime
 > Currently working on [Factor](https://github.com/chlxyz/Factor) 🟀
 

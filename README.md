@@ -5,7 +5,7 @@ user@chlxyz:~$ start intro
 </p>
 
 user@chlxyz:~$ whoami
-> Musician, Digital Artist, SWE and SWD
+> Musician, Digital Artist, and Developer
 
 user@chlxyz:~$ prevcar
 > SWE Intern at Kompas Gramedia

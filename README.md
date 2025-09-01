@@ -8,7 +8,7 @@ user@chlxyz:~$ whoami
 > Musician, Digital Artist, and Developer
 
 user@chlxyz:~$ prevcar
-> SWE Intern at Kompas Gramedia
+> SWE Intern at [Kompas Gramedia](https://kompasgramedia.com/)
 
 user@chlxyz:~$ uptime
 > Currently working on [Factor](https://github.com/chlxyz/Factor) 🟀
